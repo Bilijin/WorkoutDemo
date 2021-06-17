@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Workout Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="low">Low Intensity</string>
+    <string name="medium">Medium Intensity</string>
+    <string name="high">High Intensity</string>
+
+    <string name="cardio">Cardio</string>
+    <string name="strength">Strength</string>
+    <string name="flex">Flexibility</string>
+    <string name="ff">fva</string>
+    <string name="title_activity_workout">WorkoutActivity</string>
+
+    <string name="today">Today\'s Workout</string>
+    <string name="next">Week</string>
+    <string name="month">Month</string>
+
+    <string name="good_morning">Good Morning!</string>
+    <string name="exercise">Exercise</string>
+    <string name="kg">60kg</string>
+    <string name="weight">Weight</string>
+    <string name="sets">Sets</string>
+    <string name="_4">4</string>
+    <string name="reps">Reps</string>
+    <string name="ten">10</string>
+    <string name="muscle_groups">Muscle Groups</string>
+    <string name="quadriceps">Quadriceps</string>
+    <string name="gluteus_maximus">Gluteus Maximus</string>
+    <string name="_54">54</string>
+    <string name="_55_kg">55\nKg</string>
+    <string name="history">History</string>
+    <string name="completed_sets">Completed Sets</string>
+    <string name="_2_per_week">2 per week</string>
+    <string name="kgg">kg</string>
+    <string name="_55">55</string>
+    <string name="average_weight">Average weight</string>
+    <string name="_10">+10%</string>
+
+</resources>
